@@ -42,7 +42,7 @@
 
 原文网址：[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
-Translated by Kiki in 2019/5/18. Last modified in 2020/12/22.
+Translated by Kiki in 2019/5/18. Last modified in 2021/01/03.
 
 ## 免责声明
 
